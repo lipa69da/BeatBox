@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BeatBox</string>
+    <string name="playback_speed">Playback Speed: %s</string>
+    <string name="sound_list_description">Список звуков для воспроизведения</string>
+</resources>
