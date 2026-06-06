@@ -19,4 +19,3 @@ class SoundViewModel(private val beatBox : BeatBox) : BaseObservable() {
     val title: String?
         get() = sound?.name
 }
-//style="@style/BeatBoxButton.Strong"
